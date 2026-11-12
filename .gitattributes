@@ -1,0 +1,7 @@
+# 统一仓库文本换行，Windows 双击入口保留 CRLF
+* text=auto eol=lf
+*.bat text eol=crlf
+*.jar binary
+
+# Markdown 行尾空格可用于显式换行
+*.md whitespace=-blank-at-eol,-blank-at-eof

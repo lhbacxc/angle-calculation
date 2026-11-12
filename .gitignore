@@ -1,0 +1,60 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Visual Studio Code related
+.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# 本机配置、缓存与代码索引
+.codegraph/
+.claude/settings.local.json
+android/local.properties
+**/.gradle/
+**/GeneratedPluginRegistrant.java
+
+# 环境变量、签名材料与运行数据
+.env
+.env.*
+!.env.example
+android/key.properties
+*.jks
+*.keystore
+*.db
+*.sqlite
+*.sqlite3
