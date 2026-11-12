@@ -4,6 +4,10 @@
 
 源码仓库：[lhbacxc/angle-calculation](https://github.com/lhbacxc/angle-calculation)。
 
+## 下载安装
+
+[下载 APK：v1.0.4（build 5）](https://github.com/lhbacxc/angle-calculation/releases/download/v1.0.4/angle-calculator-v1.0.4-build5.apk)，或查看[Release 与校验文件](https://github.com/lhbacxc/angle-calculation/releases/tag/v1.0.4)。最低支持 Android 5.0，产物沿用当前项目的 Android Debug 签名。
+
 ## 快速开始
 
 以下命令从项目根目录在 PowerShell 执行；先初始化编码与错误处理：
